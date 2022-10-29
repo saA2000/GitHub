@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="VcsDirectoryMappings">
+    <mapping directory="$PROJECT_DIR$" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/EasyTrage-master" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/Flashloan-Arbitrage" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/aave-flash-loan-tutorial" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/dex-smart-contract" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/price-bot" vcs="Git" />
+  </component>
+</project>
